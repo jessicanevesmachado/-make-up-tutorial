@@ -1,6 +1,6 @@
 # USANDO SQL E JWT NO NODE.JS 
 
-As tecnologias utilizadas para o desenvolvimento do projeto foram: nodejs, jquery, javascript, sql server 2017 e bootstrap 4
+As tecnologias utilizadas para o desenvolvimento do projeto foram: nodejs, jquery, javascript, sql server  e bootstrap 4
 
 # Observação:
 
@@ -10,7 +10,5 @@ o arquivo database.js é onde está configurado a conexão com o banco sql serve
 
 Ao baixar o projeto, entrar na pasta api e executar os seguintes comandos:
 
-npm install
+yarn install
 nodemon
-
-Abrir o index.html
