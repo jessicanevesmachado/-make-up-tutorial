@@ -1,7 +1,9 @@
 # Objetivo
 
-1-Criar uma página estática para visualizar os tutoriais de maquiagem no Front.
-2-Salvar a foto do usuario e o video assistido para manter um histórico.
+1-Criar uma página estática para visualizar os tutoriais de maquiagem.
+
+
+2-Salvar a foto do usuario e o video assistido para manter um histórico de visualizações.
 
 # Tecnologias
 
