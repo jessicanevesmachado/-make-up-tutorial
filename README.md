@@ -1,9 +1,9 @@
 # Objetivo
 
-1-Criar uma página estática para visualizar os tutoriais de maquiagem.
+1-Criar uma página estática para apresentar os tutoriais de maquiagem.
 
 
-2-Salvar a foto do usuario e o video assistido para manter um histórico de visualizações.
+2-Ao visualizar um video a aplicação deve manter o histórico do acesso salvando a foto do usuario e o video assistido.
 
 # Tecnologias
 
